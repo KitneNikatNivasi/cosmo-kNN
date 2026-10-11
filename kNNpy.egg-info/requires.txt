@@ -1,0 +1,15 @@
+astropy>=5.0
+astropy-healpix
+astrotools
+getdist
+healpy
+matplotlib
+numba
+numpy
+pandas
+pyFFTW
+scikit-learn
+scipy
+
+[dev]
+pytest
